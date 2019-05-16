@@ -1,1 +1,2 @@
-message: hello from PROD Configuration APP2 A
+message:
+  info: hello from PROD Configuration APP2 A
