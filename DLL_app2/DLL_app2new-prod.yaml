@@ -1,3 +1,6 @@
+spring:
+  profiles:
+    ss: true
 message:
   info: hello from PROD Configuration APP2 ASSS
 
