@@ -1,8 +1,0 @@
-spring:
-  profiles:
-    ss: truedd
-message:
-  info: hello from PROD Configuration APP2 ASSShh
-
-repo:
-  browser: Mozilla
