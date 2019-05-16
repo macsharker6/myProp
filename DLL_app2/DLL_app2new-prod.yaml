@@ -1,6 +1,6 @@
 spring:
   profiles:
-    ss: true
+    ss: truedd
 message:
   info: hello from PROD Configuration APP2 ASSS
 
