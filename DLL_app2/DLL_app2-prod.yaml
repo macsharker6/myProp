@@ -3,3 +3,6 @@ message:
 
 repo:
   browser: Mozilla
+app:
+  web:
+    config: AAA
