@@ -6,3 +6,6 @@ repo:
 app:
   web:
     config: AAA
+
+my:
+  cc: DD
