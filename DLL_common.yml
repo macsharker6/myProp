@@ -1,2 +1,5 @@
 message: hello from COMMON Configuration
-repo: API DLL 
+repo: API DLL
+my:
+  con:
+    nn: HHH
